@@ -12,6 +12,10 @@
         "key": "ctrl+k ctrl+g ctrl+d",
         "command": "workbench.action.tasks.runTask",
         "args": "npm run toDeploy"
-      }
-      
+    },
+    {
+        "key": "ctrl+k ctrl+g ctrl+w",
+        "command": "workbench.action.tasks.runTask",
+        "args": "npm run toWebComp"
+    }
 ]
