@@ -9,6 +9,11 @@
         "command": "angular.goToTemplateForComponent"
     },
     {
+        "key": "ctrl+k ctrl+g ctrl+s",
+        "command": "workbench.action.tasks.runTask",
+        "args": "npm run startx"
+    },
+    {
         "key": "ctrl+k ctrl+g ctrl+d",
         "command": "workbench.action.tasks.runTask",
         "args": "npm run toDeploy"

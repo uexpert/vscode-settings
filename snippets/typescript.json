@@ -25,6 +25,13 @@
 		],
 		"description": "Log output to console"
 	},
+	"Create a new method": {
+		"prefix": "newMethod",
+		"body": [
+			"$1() {\n\t$2\n}"
+		],
+		"description": "Log output to console"
+	},
 	"delay": {
 		"prefix": "awaitPromise",
 		"body": [
