@@ -1,0 +1,88 @@
+{
+    "telemetry.machineId": "f09a22035ee416a09a19923fa6088bc59c9788a101c136ed388dbfa6d98e1724",
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 253,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App",
+            "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\50aba81a460bf41a8c3f9311fa8787d3",
+            "uiState": {
+                "mode": 0,
+                "x": 452,
+                "y": 177,
+                "width": 1024,
+                "height": 768
+            }
+        },
+        "openedWindows": []
+    },
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App"
+            },
+            {
+                "folderUri": "file:///d%3A/Angular%20Projekte/vscode-settings"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///d%3A/Angular%20Projekte/angular_16_projects/angular-16-without-style": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/base_test": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/angular_16_projects/Angular_Leistungserfassung_test": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/angularAdcRbac": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/angularAdcDrive_workspace.code-workspace": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/base": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/angular_16_projects/angular-16-test": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/backup/test-json-server": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/angular_16_projects/Angular_Leistungserfassung": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/fileswift_web_component": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/FileswiftAppBeta": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/AngularAdcFileSwift_Main": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/LeistungserfassungApp": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/Leistungserfassung_App_upgrade17": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/adc-meeting-Main": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/seleniumDemo": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/FileswiftApp_upgrade_17.3": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/EssenBesteller": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/fileswift-angular-17": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/fileswiftapp17_1": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/fileswiftapp17": "__default__profile__",
+            "file:///d%3A/browser-tests": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/FileswiftApp": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/Leistungserfassung_App": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/vscode-settings": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "windowControlHeight": 35,
+    "telemetry.sqmId": "{83E8E3B7-1CFE-404B-8A70-4C7F14FDFBCE}"
+}

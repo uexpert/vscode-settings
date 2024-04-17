@@ -1,0 +1,17 @@
+// Geben Sie Ihre Tastenzuordnungen in dieser Datei ein, um die Standardwerte außer Kraft zu setzen.auto[]
+[
+    {
+        "key": "ctrl+k ctrl+z",
+        "command": "angular.goToComponentWithTemplateFile"
+    },
+    {
+        "key": "ctrl+k ctrl+y",
+        "command": "angular.goToTemplateForComponent"
+    },
+    {
+        "key": "ctrl+k ctrl+g ctrl+d",
+        "command": "workbench.action.tasks.runTask",
+        "args": "npm run toDeploy"
+      }
+      
+]
