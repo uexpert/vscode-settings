@@ -28,7 +28,7 @@
 	"Create a new method": {
 		"prefix": "newMethod",
 		"body": [
-			"$1() {\n\t$2\n}"
+			"$1($2) {\n\t$3\n}"
 		],
 		"description": "Log output to console"
 	},
