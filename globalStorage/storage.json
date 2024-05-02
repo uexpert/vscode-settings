@@ -44,9 +44,6 @@
         "folders": [
             {
                 "folderUri": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App"
-            },
-            {
-                "folderUri": "file:///d%3A/Angular%20Projekte/FileswiftApp"
             }
         ],
         "emptyWindows": []
@@ -77,8 +74,8 @@
             "file:///d%3A/Angular%20Projekte/fileswiftapp17": "__default__profile__",
             "file:///d%3A/browser-tests": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/vscode-settings": "__default__profile__",
-            "file:///d%3A/Angular%20Projekte/Leistungserfassung_App": "__default__profile__",
-            "file:///d%3A/Angular%20Projekte/FileswiftApp": "__default__profile__"
+            "file:///d%3A/Angular%20Projekte/FileswiftApp": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/Leistungserfassung_App": "__default__profile__"
         },
         "emptyWindows": {}
     },
