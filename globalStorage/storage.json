@@ -27,8 +27,8 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App",
-            "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\50aba81a460bf41a8c3f9311fa8787d3",
+            "folder": "file:///d%3A/Angular%20Projekte/FileswiftApp",
+            "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\b1c8e65b50cff4d71f4a5fa4835a1739",
             "uiState": {
                 "mode": 0,
                 "x": 452,
@@ -42,6 +42,9 @@
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
+            {
+                "folderUri": "file:///d%3A/Angular%20Projekte/FileswiftApp"
+            },
             {
                 "folderUri": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App"
             }
@@ -71,9 +74,9 @@
             "file:///d%3A/Angular%20Projekte/EssenBesteller": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/fileswift-angular-17": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/fileswiftapp17_1": "__default__profile__",
-            "file:///d%3A/Angular%20Projekte/fileswiftapp17": "__default__profile__",
             "file:///d%3A/browser-tests": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/vscode-settings": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/fileswiftapp17": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/FileswiftApp": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/Leistungserfassung_App": "__default__profile__"
         },
