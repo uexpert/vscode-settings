@@ -27,12 +27,12 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///d%3A/Angular%20Projekte/FileswiftApp",
-            "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\b1c8e65b50cff4d71f4a5fa4835a1739",
+            "folder": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App",
+            "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\50aba81a460bf41a8c3f9311fa8787d3",
             "uiState": {
                 "mode": 0,
-                "x": 452,
-                "y": 177,
+                "x": 448,
+                "y": 156,
                 "width": 1024,
                 "height": 768
             }
@@ -42,9 +42,6 @@
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
-            {
-                "folderUri": "file:///d%3A/Angular%20Projekte/FileswiftApp"
-            },
             {
                 "folderUri": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App"
             }
@@ -74,15 +71,17 @@
             "file:///d%3A/Angular%20Projekte/EssenBesteller": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/fileswift-angular-17": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/fileswiftapp17_1": "__default__profile__",
-            "file:///d%3A/browser-tests": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/vscode-settings": "__default__profile__",
-            "file:///d%3A/Angular%20Projekte/fileswiftapp17": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/test17": "__default__profile__",
+            "file:///d%3A/browser-tests": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/FileswiftApp": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/fileswiftapp17": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/Leistungserfassung_App": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "windowControlHeight": 35,
-    "telemetry.sqmId": "{83E8E3B7-1CFE-404B-8A70-4C7F14FDFBCE}"
+    "telemetry.sqmId": "{83E8E3B7-1CFE-404B-8A70-4C7F14FDFBCE}",
+    "telemetry.devDeviceId": "45b56f5a-2963-464a-bef2-f01ef30bdbf5"
 }

@@ -25,6 +25,13 @@
 		],
 		"description": "Log output to console"
 	},
+	"try catch finally": {
+		"prefix": "tryCatchFinally",
+		"body": [
+			"try {\n\t$1\n} catch (err: any) {\n\t$2\n} finally {\n\t$3\n}"
+		],
+		"description": "Log output to console"
+	},
 	"Create a new method": {
 		"prefix": "newMethod",
 		"body": [
@@ -35,7 +42,7 @@
 	"delay": {
 		"prefix": "awaitPromise",
 		"body": [
-			"await new Promise(resolve => setTimeout(resolve, 3000));"
+			"await new Promise(resolve => setTimeout(resolve, ${1:3000}));"
 		],
 		"description": "Log output to console"
 	}

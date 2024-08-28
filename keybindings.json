@@ -22,5 +22,9 @@
         "key": "ctrl+k ctrl+g ctrl+w",
         "command": "workbench.action.tasks.runTask",
         "args": "npm run toWebComp"
+    },
+    {
+        "key": "ctrl+alt+p",
+        "command": "editor.gotoParentFold"
     }
 ]
