@@ -10,9 +10,13 @@
             "background": "#1f1f1f",
             "editorBackground": "#1f1f1f",
             "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
             "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
             "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
             "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
             "statusBarNoFolderBackground": "#1f1f1f"
         },
         "layoutInfo": {
@@ -20,7 +24,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 253,
+            "sideBarWidth": 216,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -31,17 +35,43 @@
             "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\50aba81a460bf41a8c3f9311fa8787d3",
             "uiState": {
                 "mode": 0,
-                "x": 448,
-                "y": 156,
+                "x": 328,
+                "y": 141,
                 "width": 1024,
                 "height": 768
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///d%3A/Angular%20Projekte/fileswiftapp17",
+                "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\c618cb92d4d2af8e57d8f56f11b8ac80",
+                "uiState": {
+                    "mode": 1,
+                    "x": 396,
+                    "y": 159,
+                    "width": 1024,
+                    "height": 768
+                }
+            },
+            {
+                "folder": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App",
+                "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\50aba81a460bf41a8c3f9311fa8787d3",
+                "uiState": {
+                    "mode": 0,
+                    "x": 328,
+                    "y": 141,
+                    "width": 1024,
+                    "height": 768
+                }
+            }
+        ]
     },
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
+            {
+                "folderUri": "file:///d%3A/Angular%20Projekte/fileswiftapp17"
+            },
             {
                 "folderUri": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App"
             }
@@ -75,6 +105,7 @@
             "file:///d%3A/Angular%20Projekte/test17": "__default__profile__",
             "file:///d%3A/browser-tests": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/FileswiftApp": "__default__profile__",
+            "file:///d%3A/web%20api%20projekte/leistungserfassungapi": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/fileswiftapp17": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/Leistungserfassung_App": "__default__profile__"
         },
