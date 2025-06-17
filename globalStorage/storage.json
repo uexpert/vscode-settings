@@ -36,7 +36,7 @@
             "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\c618cb92d4d2af8e57d8f56f11b8ac80",
             "uiState": {
                 "mode": 0,
-                "x": -1560,
+                "x": 0,
                 "y": 159,
                 "width": 1200,
                 "height": 800
@@ -49,6 +49,9 @@
         "folders": [
             {
                 "folderUri": "file:///d%3A/Angular%20Projekte/fileswiftapp17"
+            },
+            {
+                "folderUri": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App"
             }
         ],
         "emptyWindows": []
