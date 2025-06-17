@@ -24,6 +24,17 @@
         "args": "npm run toWebComp"
     },
     {
+        "key": "ctrl+k ctrl+g ctrl+f",
+        "command": "workbench.action.tasks.runTask",
+        "args": "npm run file-browser-webcomponent"
+    },
+    {
+        "key": "ctrl+k ctrl+g ctrl+r",
+        "command": "workbench.action.tasks.runTask",
+        "args": "npm run register-webcomponent"
+    },
+
+    {
         "key": "ctrl+alt+p",
         "command": "editor.gotoParentFold"
     }

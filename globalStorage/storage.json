@@ -24,56 +24,31 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 216,
+            "sideBarWidth": 301,
+            "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App",
-            "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\50aba81a460bf41a8c3f9311fa8787d3",
+            "folder": "file:///d%3A/Angular%20Projekte/fileswiftapp17",
+            "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\c618cb92d4d2af8e57d8f56f11b8ac80",
             "uiState": {
                 "mode": 0,
-                "x": 328,
-                "y": 141,
-                "width": 1024,
-                "height": 768
+                "x": -1560,
+                "y": 159,
+                "width": 1200,
+                "height": 800
             }
         },
-        "openedWindows": [
-            {
-                "folder": "file:///d%3A/Angular%20Projekte/fileswiftapp17",
-                "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\c618cb92d4d2af8e57d8f56f11b8ac80",
-                "uiState": {
-                    "mode": 1,
-                    "x": 396,
-                    "y": 159,
-                    "width": 1024,
-                    "height": 768
-                }
-            },
-            {
-                "folder": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App",
-                "backupPath": "C:\\Users\\nakkoul\\AppData\\Roaming\\Code\\Backups\\50aba81a460bf41a8c3f9311fa8787d3",
-                "uiState": {
-                    "mode": 0,
-                    "x": 328,
-                    "y": 141,
-                    "width": 1024,
-                    "height": 768
-                }
-            }
-        ]
+        "openedWindows": []
     },
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
             {
                 "folderUri": "file:///d%3A/Angular%20Projekte/fileswiftapp17"
-            },
-            {
-                "folderUri": "file:///d%3A/Angular%20Projekte/Leistungserfassung_App"
             }
         ],
         "emptyWindows": []
@@ -107,12 +82,50 @@
             "file:///d%3A/Angular%20Projekte/FileswiftApp": "__default__profile__",
             "file:///d%3A/web%20api%20projekte/leistungserfassungapi": "__default__profile__",
             "file:///d%3A/Angular%20Projekte/fileswiftapp17": "__default__profile__",
-            "file:///d%3A/Angular%20Projekte/Leistungserfassung_App": "__default__profile__"
+            "file:///d%3A/Angular%20Projekte/Leistungserfassung_App": "__default__profile__",
+            "file:///d%3A/web%20api%20projekte/fileswiftapi": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/AngularAliasManager": "__default__profile__",
+            "file:///c%3A/Users/nakkoul/Downloads/byCopy/byCopy/bytlock-auth1": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/byCopy11/byCopy11/bytlock-auth1": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/Doha/bycopy22/bytlock-auth1": "__default__profile__",
+            "file:///d%3A/Angular%20Projekte/Doha/byCopy11/bytlock-auth1": "__default__profile__"
         },
         "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "windowControlHeight": 35,
     "telemetry.sqmId": "{83E8E3B7-1CFE-404B-8A70-4C7F14FDFBCE}",
-    "telemetry.devDeviceId": "45b56f5a-2963-464a-bef2-f01ef30bdbf5"
+    "telemetry.devDeviceId": "45b56f5a-2963-464a-bef2-f01ef30bdbf5",
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "auxiliarySideBarWidth": [
+                400,
+                []
+            ],
+            "sideBarWidth": 301,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "44a632459c672058349d598d9ead15c2": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "6d13f07b2770fd51db6cf747ba534213": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ce6ce09486becf0c7ecd7943386c4f36": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "1d24fdf44bdcd31ccb0d92ae90b41f2c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "14d3e03b04a37e0be4d80692a09753ce": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
 }

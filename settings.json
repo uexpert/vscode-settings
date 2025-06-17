@@ -7,5 +7,6 @@
     },
     "git.ignoreMissingGitWarning": true,
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
-    "diffEditor.ignoreTrimWhitespace": false
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.confirmSync": false
 }
